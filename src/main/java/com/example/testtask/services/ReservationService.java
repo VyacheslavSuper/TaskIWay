@@ -2,7 +2,6 @@ package com.example.testtask.services;
 
 import com.example.testtask.dao.ReservationDao;
 import com.example.testtask.dao.UserDao;
-import com.example.testtask.dto.ResponseBase;
 import com.example.testtask.dto.requests.reservation.CreateReservationRequest;
 import com.example.testtask.dto.responses.ListReservationResponse;
 import com.example.testtask.dto.responses.ReservationResponse;
